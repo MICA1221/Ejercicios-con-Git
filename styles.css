@@ -5,3 +5,16 @@ body {
 h1 {
     color: #333;
 }
+
+h1 {
+    color: #4A86E8;
+    font-family: 'Arial', sans-serif; 
+    text-align: center;  
+}
+
+p {
+    color: #6D6D6D; 
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;  
+    margin-bottom: 20px;
+}
